@@ -2,4 +2,6 @@
 # Bill Of Materials 
  |Part|Number Needed|Price|Source| 
  |----|----------|-----|-----|
-|Total: |0|$0.00| |
+|600mm Trex|6|$0.00||
+|1800mm Trex|6|$0.00||
+|Total: |12|$0.00| |
